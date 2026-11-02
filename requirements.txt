@@ -5,3 +5,4 @@ pycocotools
 imagehash
 pillow
 numpy
+matplotlib
